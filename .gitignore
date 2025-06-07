@@ -1,21 +1,21 @@
 # Node modules
 node_modules/
-frontend/node_modules/
-backend/node_modules/
+FrontEnd_MockInterview/node_modules/
+BackEnd/node_modules/
 
 # Build output
-frontend/dist/
-backend/dist/
+FrontEnd_MockInterview/dist/
+BackEnd/dist/
 
 # Environment variables
-frontend/.env
-backend/.env
+FrontEnd_MockInterview/.env
+BackEnd/.env
 
 # Logs
 *.log
 logs/
-frontend/logs/
-backend/logs/
+FrontEnd_MockInterview/logs/
+BackEnd/logs/
 
 # OS-generated files
 .DS_Store
@@ -26,13 +26,13 @@ Thumbs.db
 .idea/
 
 # Dependency lock files (optional, if you want to ignore them)
-frontend/package-lock.json
-backend/package-lock.json
+FrontEnd_MockInterview/package-lock.json
+BackEnd/package-lock.json
 
 # Debugger files
 *.swp
 *.swo
 
 # Generated files
-frontend/assets/
-backend/uploads/
+FrontEnd_MockInterview/assets/
+BackEnd/uploads/
